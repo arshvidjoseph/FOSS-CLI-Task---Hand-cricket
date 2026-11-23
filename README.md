@@ -2,7 +2,7 @@
 A simple command-line hand cricket game made with Python. You play against the computer, decide whether to bat or bowl after winning the toss, and try to score more runs than the opponent.
 
 The game also stores match results in a MySQL database, so you can view your previous matches whenever you run the application.
-# Features
+## Features
 - Head-or-tails toss to decide who gets the choice.
 - Choose to bat or bowl when you win the toss.
 - Play against the computer using numbers from 1 to 6.
@@ -10,11 +10,11 @@ The game also stores match results in a MySQL database, so you can view your pre
 - The game calculates the scores and announces the result.
 - Saves the toss winner, match winner, scores and date/time in MySQL.
 - View saved match history from the menu.
-# Requirements
+## Requirements
 - Python 3
 - MySQL Server running on your computer
 - The MySQL Connector package for Python
-# Setup
+## Setup
 1. Install Python 3 and MySQL Server if they are not already installed.
 2. Open a terminal in the project folder.
 3. Install the MySQL connector:
@@ -25,9 +25,9 @@ The game also stores match results in a MySQL database, so you can view your pre
    - Password: student
    Change the password in the connection lines if your local MySQL root account uses a different password. .
 5. Make sure the MySQL server is running. The program creates the ArshvidFOSS database and the results table automatically the first time it connects.
-# Menu and commands
+## Menu and commands
 The application is menu-driven. Enter one of these choices when prompted:
-## Menu choice	Action
+### Menu choice	Action
 |Prompt | Input |
 |---|---|
 | 1 |	Start a new match |
