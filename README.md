@@ -1,4 +1,4 @@
-Hand Cricket - CLI Game
+# Hand Cricket - CLI Game
 A simple command-line hand cricket game made with Python. You play against the computer, decide whether to bat or bowl after winning the toss, and try to score more runs than the opponent.
 
 The game also stores match results in a MySQL database, so you can view your previous matches whenever you run the application.
