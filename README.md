@@ -53,6 +53,4 @@ The program creates a database named ArshvidFOSS and a table named results.
 - played_at - date and time the record was inserted
 ## Sample Output
 
-The PDF below contains screenshots demonstrating the complete execution of the Hand Cricket CLI application.
-
-View Sample Output (PDF)
+[View Sample Output (PDF)](https://github.com/arshvidjoseph/FOSS-CLI-Task---Hand-cricket/blob/main/Sample%20Output.pdf)
