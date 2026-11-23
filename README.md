@@ -51,3 +51,8 @@ The program creates a database named ArshvidFOSS and a table named results.
 - your_score - player's score
 - computer_score - computer's score
 - played_at - date and time the record was inserted
+## Sample Output
+
+The PDF below contains screenshots demonstrating the complete execution of the Hand Cricket CLI application.
+
+View Sample Output (PDF)
